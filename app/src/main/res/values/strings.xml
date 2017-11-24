@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lollipop Activity Transitions</string>
+
+    <string name="transition_name_name">transition:NAME</string>
+    <string name="transition_name_circle">transition:CIRCLE</string>
+    <string name="transition_name_phone">transition:PHONE</string>
+
+</resources>
